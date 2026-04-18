@@ -1,0 +1,8 @@
+{
+  "name": "GestureSense Pro",
+  "description": "A macOS-inspired real-time hand gesture recognition app using MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
