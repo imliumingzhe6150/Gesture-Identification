@@ -1,5 +1,5 @@
 {
-  "name": "GestureSense Pro",
+  "name": "GestureFlow_final",
   "description": "A macOS-inspired real-time hand gesture recognition app using MediaPipe.",
   "requestFramePermissions": [
     "camera"
